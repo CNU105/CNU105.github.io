@@ -20,8 +20,8 @@ sections:
         country: China
         country_code: CN
       coordinates:
-        latitude: '39.9289'
-        longitude: '116.2914'
+        latitude: '39.93747968545451'
+        longitude: '116.31142074566439'
       directions: Take Metro Line 6 to Garden Bridge Station, exit B and walk about 500 meters to the second North District of Capital Normal University
       office_hours:
         - 'Monday 10:00 to 13:00'
