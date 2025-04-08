@@ -3,39 +3,38 @@
 title: Leilei Lin
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Leilei
+last_name: Lin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Director of AIM-LAB
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Capital Normal University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Leilei Lin is a master tutor of Capital Normal University and a postdoctoral fellow of Tsinghua University.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Process Mining
+  - Big Data
+  - Large Language Models
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Post Doc in Software Engineering
+      institution: Tsinghua University
+    
+    - course: PhD in Software Engineering
+      institution: Yunnan University
+      
+
+    
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -72,6 +71,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Leilei Lin is a master tutor of Capital Normal University and a postdoctoral fellow of Tsinghua University. His research interests include process mining, big data processing and analysis, and graph convolutional neural networks. Up to now, he has published more than 40 papers in IEEE TSC, IEEE TPDS, CAISE, ICSOC, DASFAA, Journal of Computer Science, Journal of Software and other domestic and foreign journal conferences. Presided over or participated in more than 10 national key research and development programs/National Natural Science Foundation/Beijing Municipal Education Commission science and technology projects. Won the national invention patent, software copyright 5, won the Beijing outstanding youth science and technology paper. He is currently a member of China Business Process Management Conference, an executive member of CCF Service Computing, a judge of China Software Service Innovation Competition, and a reviewer of many journals at home and abroad. The research and development results have been successfully applied in GAC Toyota, China Merchants Real Estate, Taikang Insurance Group and so on
