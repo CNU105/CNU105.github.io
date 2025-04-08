@@ -8,7 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        AIM Lab
+        Wowchemy
+        Research Group
       image:
         filename: welcome.jpg
       text: |
