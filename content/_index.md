@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        AIM Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **AIM Lab** is a center of excellence under the School of Management at Capital Normal University, dedicated to cutting-edge research, teaching, and practice. It is committed to conducting in-depth research and practical exploration in multiple key fields such as process mining, big data processing, aiming to promote theoretical innovation and technological application in related fields, cultivate high-quality professional talents, and provide intellectual support and technical guarantee for social development and industrial upgrading.
   
   - block: collection
     content:
