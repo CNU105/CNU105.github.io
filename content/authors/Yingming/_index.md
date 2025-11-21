@@ -68,7 +68,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduates
+  - Alumni
 ---
 
 My research interests lie broadly in Graph Convolutional Networks and Large Language Models, especially LLM-based Agent，check my [hompage](https://aizhouym.github.io/)  for more information. I am open to other topics, so feel free to reach out if you’d like to chat!
