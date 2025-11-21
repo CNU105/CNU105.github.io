@@ -8,32 +8,36 @@ last_name: Zhou
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Yingming
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
-  - name: Capital Normal University
-    url: ''
+  - name: Capital Normal University(2021-2025)
+    url: 'aizhouym.github.io'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a senior in CNU, and my research interests are GCNs and LLMs. Nice to meet you!
+bio: I'm fortunate enough to be advised by Prof.Lin, who encourage me to explode new technologies and teach me how to do research.
 
 interests:
   - Process Mining
-  - Nature Language Processing
-  - Large Language Models
+  - LLMs, LLMs Agent.
+  - Reinforcement Learning 
 
 education:
   courses:
     - course: BS in Information Management and Information System
       institution: Capital Normal University
       year: 2021
+    
+    - course: PhD in Computer Science
+      institution: Stevens Institute of Technology
+      year: 2025-present
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
